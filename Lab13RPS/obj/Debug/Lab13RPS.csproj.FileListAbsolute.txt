@@ -1,0 +1,7 @@
+D:\C#\Labs\Lab13RPS\Lab13RPS\bin\Debug\Lab13RPS.exe.config
+D:\C#\Labs\Lab13RPS\Lab13RPS\bin\Debug\Lab13RPS.exe
+D:\C#\Labs\Lab13RPS\Lab13RPS\bin\Debug\Lab13RPS.pdb
+D:\C#\Labs\Lab13RPS\Lab13RPS\obj\Debug\Lab13RPS.csprojAssemblyReference.cache
+D:\C#\Labs\Lab13RPS\Lab13RPS\obj\Debug\Lab13RPS.csproj.CoreCompileInputs.cache
+D:\C#\Labs\Lab13RPS\Lab13RPS\obj\Debug\Lab13RPS.exe
+D:\C#\Labs\Lab13RPS\Lab13RPS\obj\Debug\Lab13RPS.pdb
